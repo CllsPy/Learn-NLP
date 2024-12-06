@@ -1,0 +1,48 @@
+
+---
+
+### Texto Raw (Desafio para Limpeza)
+
+```
+Oi!!!  Alguém sabe onde eu posso comprar um tênis novo?? 😅 Tô pensando   em pegar um par da Nike, ou Adidas....? 
+E também, queria saber se tem algum desconto    no site !! 
+
+Ouvi dizer que algumas lojas online   tem promoções  de "ofertas"   durante a Black Friday..... 😎  Por exemplo, no ano passado, comprei meu tênis da Nike por  R$100, foi incrível!! 
+Mas, sabe,   encontrar boas ofertas às vezes é complicado.... 🙄  Ainda mais quando tudo está tão caro hoje em dia... 
+
+P.S. Mais alguém procurando ofertas nessa   temporada?🤔
+```
+
+---
+
+### Tarefas para Limpeza de Texto
+
+- **Remover espaços extras**: Corrigir espaços múltiplos entre palavras.
+- **Remover caracteres especiais**: Lidar com emojis, pontos de interrogação e outros símbolos desnecessários.
+- **Normalizar pontuação**: Corrigir o uso inconsistente de múltiplos pontos de interrogação, exclamações, etc.
+- **Remover espaços desnecessários**: Garantir que o texto não tenha espaços extras no início ou no final.
+- **Substituir palavras ou termos específicos**: Substituir algumas palavras ou expressões por formas mais padronizadas (ex.: "Nike" -> "Nike Store", "Adidas" -> "Adidas Store").
+
+---
+
+### Resultado Esperado (Após Limpeza)
+
+```
+Oi! Alguém sabe onde eu posso comprar um tênis novo? Tô pensando em pegar um par da Nike Store ou Adidas Store. Também queria saber se tem algum desconto no site.
+
+Ouvi dizer que algumas lojas online têm promoções de ofertas durante a Black Friday. Por exemplo, no ano passado, comprei meu tênis da Nike por R$100, foi incrível! Mas, sabe, encontrar boas ofertas às vezes é complicado, ainda mais quando tudo está tão caro hoje em dia.
+
+P.S. Mais alguém procurando ofertas nessa temporada?
+```
+
+---
+
+### Métodos Sugeridos para Limpeza
+
+- **Expressões Regulares (`re`)**: Para identificar e remover caracteres desnecessários ou múltiplos espaços.
+- **Replace**: Para substituir emojis ou termos específicos (ex.: "Nike" -> "Nike Store").
+- **Strip**: Para remover espaços extras no início e no fim do texto.
+
+Este texto serve como um ótimo desafio para aplicar métodos comuns de limpeza de texto, e pode ser uma boa base para testar técnicas de pré-processamento em NLP.
+
+Boa sorte no seu desafio!
