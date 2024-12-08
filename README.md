@@ -10,7 +10,7 @@ Welcome to this repository dedicated to learning and exploring Natural Language 
 
 - chapter 03
    - en
-   - doc
+   - [doc](https://github.com/CllsPy/Learn-NLP/tree/main/ch03/problem-set-0/doc)
 
 ## Introduction
 
