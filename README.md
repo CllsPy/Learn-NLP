@@ -2,6 +2,9 @@
 
 Welcome to this repository dedicated to learning and exploring Natural Language Processing (NLP). This repo serves as a collection of resources, projects, and experiments designed to help you understand and apply NLP concepts, algorithms, and techniques. Whether you're a beginner or looking to expand your knowledge, this repo provides the foundation and tools to guide you through the process of learning NLP.
 
+## Book
+![Uploading image.png…]()
+
 ## Problem Set
 
 - chapter 03
